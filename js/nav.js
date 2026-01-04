@@ -12,9 +12,9 @@ const domCache = {};
 async function loadSiteConfig() {
   // 设置默认配置
   const defaultConfig = {
-    SITE_TITLE: 'XG🧭导航',
-    SITE_DESCRIPTION: '一个简洁、纯静态的个人导航站',
-    COPYRIGHT: '© 2025 <a href="https://github.com/verkyer/xg-nav" target="_blank">XG-Nav</a>',
+    SITE_TITLE: '个人导航站',
+    SITE_DESCRIPTION: '纯静态导航,简约导航',
+    COPYRIGHT: '© 2026 <a href='https://www.Quan.im' target='_blank'>權の导航</a>',
     CARD_CONTENT: 0,
     SHOW_FAVICON: 1
   };
